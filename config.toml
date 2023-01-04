@@ -29,8 +29,8 @@ theme = "hugo-hero-theme"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
     meta_og_description = "Tokenizer Inc. is a Canadian company providing consulting services and commercial support for Apache Lucene/Solr, Elasticsearch, Big Data, NoSQL, Enterprise Web, Mobile, and Desktop Software Engineering, and more."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@FuadEfendi17"
+    meta_twitter_creator = "@FuadEfendi17"
 
 [[menu.main]]
 	name = "Services"
