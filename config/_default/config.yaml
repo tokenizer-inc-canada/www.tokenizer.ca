@@ -1,7 +1,7 @@
-baseURL: https://hbs-skeleton.netlify.app/
-title: Hugo Bootstrap Skeleton
+baseURL: https://www.tokenizer.ca/
+title: Tokenizer Inc.
 theme: github.com/razonyang/hugo-theme-bootstrap
-copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
+copyright: 'Copyright © 2004-2024 Tokenizer Inc. All Rights Reserved.'
 defaultContentLanguage: en
 # hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
 # defaultContentLanguageInSubdir: true
