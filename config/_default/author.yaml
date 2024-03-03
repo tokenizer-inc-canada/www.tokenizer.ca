@@ -1,5 +1,5 @@
 name: Fuad Efendi
-avatar: false # images/logo.png # Avatar image. Default to "images/profile.webp".
+avatar: assets/favicon.png # Avatar image. Default to "images/profile.webp".
 bio: 'Capital Markets, Blockchain, Web3'
 company: Tokenizer Inc. # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
 location: Toronto, Ontario, Canada # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
